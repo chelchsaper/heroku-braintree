@@ -23,7 +23,7 @@
                     </div>
 
                     <label for="amount">
-                        <span class="input-label">Amount</span>
+<!--                         <span class="input-label">Amount</span> -->
                         <div class="input-wrapper amount-wrapper">
                             <input id="amount" name="amount" type="tel" min="1" placeholder="Amount" value="10">
                         </div>
